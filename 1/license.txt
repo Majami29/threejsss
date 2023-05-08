@@ -1,0 +1,11 @@
+Model Information:
+* title:	Late Night Study
+* source:	https://sketchfab.com/3d-models/late-night-study-1ae11035e30344e39675413dd87198a1
+* author:	ferrohound (https://sketchfab.com/ferrohound)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Late Night Study" (https://sketchfab.com/3d-models/late-night-study-1ae11035e30344e39675413dd87198a1) by ferrohound (https://sketchfab.com/ferrohound) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
